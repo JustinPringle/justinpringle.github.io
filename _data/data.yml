@@ -134,6 +134,8 @@ leadership:
       link: https://efml.ukzn.ac.za
 
     - title: University
+      description: "Programme Co-Ordinator: Civil Engineering"
+      time: "2026-"
       description: "Chair: Academic Focus Group"
       time: "2018-2020"
     - title: University
@@ -190,10 +192,16 @@ publications:
     intro: |
       
     papers:
+      - title: "Purpose-Driven, Shifting Higher Education Epistemology in South Africa"
+        link: ""
+        type: journal
+        authors: Pringle J., Kimmie R. (2026)
+        conference: "African Perspectives of Research in Teaching and Learning Journal"
+        
       - title: "Refining the role of bathymetry, hydrodynamics and upwelling at various scales along the coral reefs at Sodwana Bay, South Africa"
         link: ""
         type: journal
-        authors: Wells C., Pringle J., Stretch D. (2024)
+        authors: Wells C., Pringle J., Stretch D. (2025)
         conference: "Ocean Dynamics"
 
       - title: "Upwelling along the southeast African coastline and links to cold water temperature anomalies at Sodwana Bay, South Africa"
